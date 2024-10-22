@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1308737_whish_li.user" name="x_1308737_whish_li.user">04f154d783511210be3a6f80ceaad3f9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 07:35:56</sys_created_on>
+        <sys_id>8cf154d783511210be3a6f80ceaad3fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>04f154d783511210be3a6f80ceaad3f9</sys_name>
+        <sys_package display_value="Whish List" source="x_1308737_whish_li">d5d15c1383511210be3a6f80ceaad388</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Whish List">d5d15c1383511210be3a6f80ceaad388</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8cf154d783511210be3a6f80ceaad3fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 07:35:56</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
